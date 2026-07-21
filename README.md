@@ -80,10 +80,10 @@
 ---
 
 <!-- CONTACT & SOCIALS SECTION -->
-## 🤝 Connect With Me
+##  Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/museerah-saboor/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/museerah-saboor-08a3a331a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/muserah-hub"><img src="https://img.shields.io/badge/GitHub-10002B?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
