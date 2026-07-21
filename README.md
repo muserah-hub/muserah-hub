@@ -1,93 +1,103 @@
-<!-- DEEP PURPLE GALAXY HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:12002b,50:3c096c,100:7b2cbf&height=220&section=header&text=Museerah%20Saboor&fontSize=52&animation=twinkle&fontColor=ffffff" width="100%" />
-  
-  <br/>
-  
-  <!-- TYPING SVG WITH STARRY/PURPLE HEX COLORS -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E0AAFF&background=00000000&center=true&vCenter=true&width=600&lines= ✨+AI+Undergraduate+%40+The+University+of+Lahore; 🌌+Aspiring+AI%2FML+Engineer; 🔮+Building+RAG+Applications+%26+LLM+Systems; 💫+Galaxy+%26+Starry+Aesthetic" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,25:2E0854,50:6A0DAD,75:00CED1,100:FF69B4&height=220&section=header&text=Muserah%20Saboor&fontSize=52&fontColor=E0AAFF&animation=twinkle&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Weaving%20Code%20Among%20the%20Stars&descSize=18&descAlignY=58&descColor=8FFFF5" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=C77DFF&background=0D022100&center=true&vCenter=true&width=650&lines=%E2%9C%A8+AI+Undergraduate+%40+University+of+Lahore;%F0%9F%8C%8C+Aspiring+AI%2FML+Engineer;%F0%9F%94%AE+Building+RAG+%2B+LLM+Systems;%F0%9F%92%AB+Galaxy+%2B+Starry+Aesthetic+Enthusiast" alt="Typing SVG" />
+</a>
+
 </div>
 
-<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-<!-- GALAXY THEMED STATUS BADGES -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Open%20To%20Work-7B2CBF?style=for-the-badge&logo=rocket&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%2F%20Machine%20Learning-3C096C?style=for-the-badge&logo=tensorflow&logoColor=E0AAFF" />
-  <img src="https://img.shields.io/badge/Certification-Artificial%20Intelligence-5A189A?style=for-the-badge&logo=credential&logoColor=white" />
-</p>
-
----
-
-<!-- ABOUT ME SECTION -->
 ## 🌌 About Me
 
-<table border="0">
-  <tr>
-    <td width="60%" valign="top">
-      <p>🎓 <b>Education:</b> AI Undergraduate at <b>The University of Lahore</b>, Lahore</p>
-      <p>🌍 <b>Location:</b> Punjab, Pakistan (Open to Remote Worldwide)</p>
-      <p>🔥 <b>Passions:</b> Solving real-world problems with AI, Machine Learning, RAG Systems</p>
-      <p>💡 <b>Current Learning:</b> LLMs, Deep Learning, Computer Vision, & Backend Dev</p>
-      <p>🎯 <b>Goal:</b> Collaborating on impactful projects to grow as an AI/ML Engineer</p>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://cdn.dribbble.com/users/156849/screenshots/3943485/programmer-star-glitch.gif" width="100%" alt="Starry Coding GIF" />
-    </td>
-  </tr>
+<table>
+<tr>
+<td width="60%" valign="top">
+
+```yaml
+name: Muserah Saboor
+role: AI/ML Engineer in training
+education: "AI Undergraduate, University of Lahore (2030)"
+location: "Punjab, Pakistan 🌙 | Open to Remote"
+currently_exploring: [LLMs, Deep Learning, RAG Systems, Computer Vision]
+languages: [English, Urdu]
+goal: "Collaborate on impactful AI projects across the galaxy 🚀"
+```
+
+</td>
+<td width="40%" align="center">
+<img src="https://cdn.dribbble.com/users/156849/screenshots/3943485/programmer-star-glitch.gif" width="260"/>
+</td>
+</tr>
 </table>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-<!-- TECH ARSENAL / SKILLS -->
 ## 🛠️ Tech Arsenal
 
-#### 🐍 AI & Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-7B2CBF?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-5A189A?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG%20Architectures-3C096C?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
+<div align="center">
+
+#### 🐍 AI & Programming
+
+![Python](https://img.shields.io/badge/Python-2E0854?style=for-the-badge&logo=python&logoColor=00FFF5)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-6A0DAD?style=for-the-badge&logo=scikitlearn&logoColor=FF69B4)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-0D0221?style=for-the-badge&logo=keras&logoColor=C77DFF)
+![RAG Architectures](https://img.shields.io/badge/RAG%20Architectures-1B1035?style=for-the-badge&logo=openai&logoColor=00CED1)
 
 #### 🌐 Tools & Development
-<p>
-  <img src="https://img.shields.io/badge/Git-240046?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-10002B?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-3C096C?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
 
----
+![Git](https://img.shields.io/badge/Git-2E0854?style=for-the-badge&logo=git&logoColor=FF69B4)
+![GitHub](https://img.shields.io/badge/GitHub-0D0221?style=for-the-badge&logo=github&logoColor=C77DFF)
+![VS Code](https://img.shields.io/badge/VS%20Code-6A0DAD?style=for-the-badge&logo=visualstudiocode&logoColor=00FFF5)
 
-<!-- GITHUB STATS CARDS (PURPLE THEMES) -->
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muserah-hub&show_icons=true&theme=synthwave&hide_border=true" width="48%" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muserah-hub&layout=compact&theme=shades-of-purple&hide_border=true" width="48%" />
-</p>
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=muserah-hub&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=FF69B4&icon_color=00CED1&text_color=C77DFF&ring_color=8A2BE2" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muserah-hub&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=FF69B4&text_color=C77DFF" width="48%"/>
 
-<!-- CERTIFICATIONS SECTION -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=muserah-hub&theme=radical&hide_border=true&background=0D0221&ring=8A2BE2&fire=FF69B4&currStreakLabel=00CED1" width="60%"/>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
 ## 📜 Certifications & Achievements
 
-| Certification | Issuing Organization | Status |
-| :--- | :---: | :---: |
-| **Certified in Artificial Intelligence** | Arfa Karim Technology Incubator (AKTI) | Completed ✅ |
+<div align="center">
 
----
+| 🏅 Certification | 🏛️ Issuing Organization | ✅ Status |
+|:---|:---|:---:|
+| **Certified in Artificial Intelligence** | Arfa Karim Technology Incubator (AKTI), Cohort C-15 | Completed |
 
-<!-- CONTACT & SOCIALS SECTION -->
-##  Connect With Me
+</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/museerah-saboor-08a3a331a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/muserah-hub"><img src="https://img.shields.io/badge/GitHub-10002B?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+## 🔭 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2E0854?style=for-the-badge&logo=linkedin&logoColor=00FFF5)](https://www.linkedin.com/in/museerah-saboor-08a3a331a/)
+[![GitHub](https://img.shields.io/badge/GitHub-0D0221?style=for-the-badge&logo=github&logoColor=FF69B4)](https://github.com/muserah-hub)
 
 <br/>
-<div align="center">
-  <img src="https://img.shields.io/badge/✨_Thank_You_For_Visiting!_✨-7B2CBF?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/✨_Thank_You_For_Visiting!_✨-6A0DAD?style=for-the-badge&labelColor=0D0221" />
+
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,25:6A0DAD,50:2E0854,75:00CED1,100:0D0221&height=120&section=footer" width="100%"/>
+
+    
+
+
+
+
