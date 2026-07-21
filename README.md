@@ -3,7 +3,7 @@
 <img src="assets/galaxy-banner.svg" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=C77DFF&background=0D022100&center=true&vCenter=true&width=650&lines=%E2%9C%A8+AI+Undergraduate+%40+University+of+Lahore;%F0%9F%8C%8C+Aspiring+AI%2FML+Engineer;%F0%9F%94%AE+Building+RAG+%2B+LLM+Systems;%F0%9F%92%AB+Galaxy+%2B+Starry+Aesthetic+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=C77DFF&background=0D022100&center=true&vCenter=true&width=650&lines=%E2%9C%A8+AI+Undergraduate+%40+University+of+Lahore;%F0%9F%8C%8C+Aspiring+AI%2FML+Engineer;%F0%9F%94%AE+Building+RAG+%2B+LLM+Systems" alt="Typing SVG" />
 </a>
 
 </div>
