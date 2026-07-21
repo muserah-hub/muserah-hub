@@ -1,20 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,25:2E0854,50:6A0DAD,75:00CED1,100:FF69B4&height=220&section=header&text=Muserah%20Saboor&fontSize=52&fontColor=E0AAFF&animation=twinkle&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Weaving%20Code%20Among%20the%20Stars&descSize=18&descAlignY=58&descColor=8FFFF5" width="100%"/>
+<img src="assets/galaxy-banner.svg" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=C77DFF&background=0D022100&center=true&vCenter=true&width=650&lines=%E2%9C%A8+AI+Undergraduate+%40+University+of+Lahore;%F0%9F%8C%8C+Aspiring+AI%2FML+Engineer;%F0%9F%94%AE+Building+RAG+%2B+LLM+Systems;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=C77DFF&background=0D022100&center=true&vCenter=true&width=650&lines=%E2%9C%A8+AI+Undergraduate+%40+University+of+Lahore;%F0%9F%8C%8C+Aspiring+AI%2FML+Engineer;%F0%9F%94%AE+Building+RAG+%2B+LLM+Systems;%F0%9F%92%AB+Galaxy+%2B+Starry+Aesthetic+Enthusiast" alt="Typing SVG" />
 </a>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img src="assets/star-divider.svg" width="100%"/>
 
 ## 🌌 About Me
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="65%" valign="top">
 
 ```yaml
 name: Muserah Saboor
@@ -27,13 +27,13 @@ goal: "Collaborate on impactful AI projects across the galaxy 🚀"
 ```
 
 </td>
-<td width="40%" align="center">
-<img src="https://cdn.dribbble.com/users/156849/screenshots/3943485/programmer-star-glitch.gif" width="260"/>
+<td width="35%" align="center">
+<img src="assets/orbit-planet.svg" width="150"/>
 </td>
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img src="assets/star-divider.svg" width="100%"/>
 
 ## 🛠️ Tech Arsenal
 
@@ -54,7 +54,7 @@ goal: "Collaborate on impactful AI projects across the galaxy 🚀"
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img src="assets/star-divider.svg" width="100%"/>
 
 ## 📊 GitHub Analytics
 
@@ -67,7 +67,7 @@ goal: "Collaborate on impactful AI projects across the galaxy 🚀"
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img src="assets/star-divider.svg" width="100%"/>
 
 ## 📜 Certifications & Achievements
 
@@ -79,11 +79,16 @@ goal: "Collaborate on impactful AI projects across the galaxy 🚀"
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img src="assets/star-divider.svg" width="100%"/>
 
 ## 🔭 Connect With Me
 
-<div align="center">
+<table>
+<tr>
+<td width="35%" align="center">
+<img src="assets/orbit-planet.svg" width="120"/>
+</td>
+<td width="65%" align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2E0854?style=for-the-badge&logo=linkedin&logoColor=00FFF5)](https://www.linkedin.com/in/museerah-saboor-08a3a331a/)
 [![GitHub](https://img.shields.io/badge/GitHub-0D0221?style=for-the-badge&logo=github&logoColor=FF69B4)](https://github.com/muserah-hub)
@@ -92,12 +97,8 @@ goal: "Collaborate on impactful AI projects across the galaxy 🚀"
 
 <img src="https://img.shields.io/badge/✨_Thank_You_For_Visiting!_✨-6A0DAD?style=for-the-badge&labelColor=0D0221" />
 
-</div>
+</td>
+</tr>
+</table>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,25:6A0DAD,50:2E0854,75:00CED1,100:0D0221&height=120&section=footer" width="100%"/>
-
-    
-
-
-
-
+<img src="assets/galaxy-banner.svg" width="100%"/>
