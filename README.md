@@ -51,6 +51,10 @@ goal: "Collaborate on impactful AI projects across the galaxy 🚀"
 ![Git](https://img.shields.io/badge/Git-2E0854?style=for-the-badge&logo=git&logoColor=FF69B4)
 ![GitHub](https://img.shields.io/badge/GitHub-0D0221?style=for-the-badge&logo=github&logoColor=C77DFF)
 ![VS Code](https://img.shields.io/badge/VS%20Code-6A0DAD?style=for-the-badge&logo=visualstudiocode&logoColor=00FFF5)
+![Docker](https://img.shields.io/badge/Docker-1B1035?style=for-the-badge&logo=docker&logoColor=00CED1)
+![Node.js](https://img.shields.io/badge/Node.js-2E0854?style=for-the-badge&logo=node.js&logoColor=8FFFF5)
+![Cursor](https://img.shields.io/badge/Cursor-0D0221?style=for-the-badge&logo=cursor&logoColor=FF69B4)
+![Antigravity](https://img.shields.io/badge/Antigravity-6A0DAD?style=for-the-badge&logoColor=C77DFF)
 
 </div>
 
