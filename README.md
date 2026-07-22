@@ -23,7 +23,7 @@ education: "AI Undergraduate, University of Lahore (2030)"
 location: "Lahore, Pakistan 🌙 | Open to Remote"
 currently_exploring: [LLMs, Deep Learning, RAG Systems, Computer Vision]
 languages: [English, Urdu]
-goal: "Collaborate on impactful AI projects across the galaxy 🚀"
+goal: "Collaborate on impactful AI projects across the world "
 ```
 
 </td>
