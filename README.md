@@ -96,10 +96,9 @@ goal: "Collaborate on impactful AI projects across the world "
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2E0854?style=for-the-badge&logo=linkedin&logoColor=00FFF5)](https://www.linkedin.com/in/museerah-saboor-08a3a331a/)
 [![GitHub](https://img.shields.io/badge/GitHub-0D0221?style=for-the-badge&logo=github&logoColor=FF69B4)](https://github.com/muserah-hub)
- </a>
-  <a href="mailto:saboormuserah@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+ [![Email](https://img.shields.io/badge/Email-2E0854?style=for-the-badge&logo=gmail&logoColor=FF69B4)](mailto:saboormuseerah@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-0D0221?style=for-the-badge&logo=instagram&logoColor=C77DFF)](https://instagram.com/museerah_saboor)
+[![Discord](https://img.shields.io/badge/Discord-6A0DAD?style=for-the-badge&logo=discord&logoColor=00CED1)](https://discord.com/users/the._muse_eva)
 
 <br/>
 
