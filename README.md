@@ -96,6 +96,10 @@ goal: "Collaborate on impactful AI projects across the world "
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2E0854?style=for-the-badge&logo=linkedin&logoColor=00FFF5)](https://www.linkedin.com/in/museerah-saboor-08a3a331a/)
 [![GitHub](https://img.shields.io/badge/GitHub-0D0221?style=for-the-badge&logo=github&logoColor=FF69B4)](https://github.com/muserah-hub)
+ </a>
+  <a href="mailto:saboormuserah@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
 <br/>
 
